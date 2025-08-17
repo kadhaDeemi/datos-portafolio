@@ -1,16 +1,16 @@
 {
   "proximo_partido": {
-    "equipoLocal": "Universidad de Chile",
-    "equipoVisita": "Audax Italiano",
-    "fecha_str": "Domingo, 17 de agosto, 12:30 p. m.",
-    "logoLocal": "https://s3.amazonaws.com/funx-futbol/dashboard/U%20DE%20CHILE-2023-04-03.png",
-    "logoVisita": "https://upload.wikimedia.org/wikipedia/commons/6/69/Insignia_Audax_Italiano.png"
+    "equipoLocal": "Independiente",
+    "equipoVisita": "Universidad de Chile",
+    "fecha_str": "Miercoles, 20 de agosto, 8:30 p. m.",
+    "logoLocal": "https://upload.wikimedia.org/wikipedia/commons/d/db/Escudo_del_Club_Atl%C3%A9tico_Independiente.svg",
+    "logoVisita": "https://s3.amazonaws.com/funx-futbol/dashboard/U%20DE%20CHILE-2023-04-03.png" 
   },
   "ultimos_resultados": [
+    { "tipo": "L", "marcador": "1-3" },
     { "tipo": "W", "marcador": "1-0" },
     { "tipo": "W", "marcador": "4-1" },
     { "tipo": "L", "marcador": "0-1" },
-    { "tipo": "W", "marcador": "4-0" },
-    { "tipo": "L", "marcador": "1-2" }
+    { "tipo": "W", "marcador": "4-0" }
   ]
 }
