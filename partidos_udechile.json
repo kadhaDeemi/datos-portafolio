@@ -1,9 +1,9 @@
 {
   "proximo_partido": {
-    "equipoLocal": "Independiente",
+    "equipoLocal": "Colo-Colo",
     "equipoVisita": "Universidad de Chile",
-    "fecha_str": "Miercoles, 20 de agosto, 8:30 p. m.",
-    "logoLocal": "https://upload.wikimedia.org/wikipedia/commons/d/db/Escudo_del_Club_Atl%C3%A9tico_Independiente.svg",
+    "fecha_str": "Domingo, 31 de agosto, 3:00 p. m.",
+    "logoLocal": "https://s3.amazonaws.com/funx-futbol/dashboard/COLO%20COLO-2023-04-03.png",
     "logoVisita": "https://s3.amazonaws.com/funx-futbol/dashboard/U%20DE%20CHILE-2023-04-03.png" 
   },
   "ultimos_resultados": [
