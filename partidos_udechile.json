@@ -1,16 +1,16 @@
 {
   "proximo_partido": {
-    "equipoLocal": "Colo-Colo",
-    "equipoVisita": "Universidad de Chile",
-    "fecha_str": "Domingo, 14 de septiembre, 3:00 p. m.",
-    "logoLocal": "https://s3.amazonaws.com/funx-futbol/dashboard/COLO%20COLO-2023-04-03.png",
-    "logoVisita": "https://s3.amazonaws.com/funx-futbol/dashboard/U%20DE%20CHILE-2023-04-03.png" 
+    "equipoLocal": "Universidad de Chile",
+    "equipoVisita": "Alianza de Lima",
+    "fecha_str": "Jueves, 25 de septiembre, 3:00 p. m.",
+    "logoLocal": "https://s3.amazonaws.com/funx-futbol/dashboard/U%20DE%20CHILE-2023-04-03.png" ,
+    "logoVisita": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Escudo_Alianza_Lima.svg" 
   },
   "ultimos_resultados": [
+    { "tipo": "D", "marcador": "0-0" },
+    { "tipo": "W", "marcador": "3-0" },
     { "tipo": "L", "marcador": "1-0" },
     { "tipo": "L", "marcador": "1-3" },
-    { "tipo": "W", "marcador": "1-0" },
-    { "tipo": "W", "marcador": "4-1" },
-    { "tipo": "L", "marcador": "0-1" }
+    { "tipo": "W", "marcador": "1-0" }
   ]
 }
